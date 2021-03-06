@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-size: 40px;
+  text-align: center;
+}
+
+.sec{
+  background: red;
+  height:300px;
+  width: 40%;
+}
